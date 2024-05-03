@@ -1,7 +1,7 @@
 
 # <samp style="font-size: larger;">&gt; Hi there, I'm <a href="https://www.linkedin.com/in/antonio-de-cinque/" target="_blank">Tony</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="30" height="30" />  </samp> 
 
-Let's get in touch!
+Let's get in touch! 
 <br><br>
 <a href="https://linkedin.com/in/antonio-de-cinque/"> 
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
